@@ -38,9 +38,6 @@
 				<Item Name="Error_Manager.lvlib" Type="Library" URL="../LVApp/Architecture/Error_Log/Error_Manager.lvlib"/>
 			</Item>
 		</Item>
-		<Item Name="100528-01.pdf" Type="Document" URL="../../100528-01.pdf"/>
-		<Item Name="ATM messages.txt" Type="Document" URL="../../ATM messages.txt"/>
-		<Item Name="ATM Requirements Tag.txt" Type="Document" URL="../../ATM Requirements Tag.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
